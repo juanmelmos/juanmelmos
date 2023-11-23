@@ -20,7 +20,7 @@ trabajando:
 2. [**Portfolio (en proceso)**](https://juanmelmos.github.io/): Estoy haciendo
    este portfolio que ahora mismo esta hecho solo con HTML y muy poco CSS pero
    poco a poco voy a añadirle mas. También quiero utilizar JavaScript y
-   posrteriormente Bootstrap.
+   posteriormente Bootstrap.
 
 ## 💻 Habilidades
 

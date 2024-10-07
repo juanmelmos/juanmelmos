@@ -2,10 +2,7 @@
 
 ## 🚀 Acerca de mí
 
-Actualmente soy un estudiante centrado en el desarrollo web. Mis estudios me han
-proporcionado una sólida base en diversas tecnologías web como HTML, CSS,
-JavaScript y más. Siempre estoy ansioso por aprender y adaptarme a nuevas
-tecnologías y tendencias en la industria del desarrollo web.
+Soy un programador Full Stack con sólidos conocimientos en las tecnologías más demandadas de la actualidad. Mi formación me ha permitido dominar tanto el desarrollo frontend como backend, lo que me capacita para crear soluciones completas y eficientes. Gracias a mi continua actualización en tendencias tecnológicas, puedo ofrecer productos innovadores y adaptados a las necesidades del mercado.
 
 ## 🎯 Proyectos destacados
 
@@ -23,8 +20,8 @@ trabajando:
 
 ## 💻 Habilidades
 
-- **Lenguajes de programación**: HTML, CSS, JavaScript, PHP y Java.
-- **Herramientas y tecnologías**: Git, GitHub, Lavaravel y Bootstrap.
+- **Lenguajes de programación**: HTML, CSS, SQL, JavaScript, PHP y Java.
+- **Herramientas y tecnologías**: Git, GitHub, React, NextJS, Lavaravel y Bootstrap.
 
 ## 📫 Contacto
 
